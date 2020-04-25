@@ -1,0 +1,2 @@
+DocString: type 3 double quotes """
+Every single extension is editable

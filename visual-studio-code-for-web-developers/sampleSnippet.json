@@ -1,0 +1,9 @@
+{
+    "document.querySelector": {
+        "prefix": "dqs",
+        "body": [
+            "var ${1:elem} = document.querySelector('${2:expr}');"
+        ],
+        "description": "Query for an element using CSS syntax"
+    }
+}
