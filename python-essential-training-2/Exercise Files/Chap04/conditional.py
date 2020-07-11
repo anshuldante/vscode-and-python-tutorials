@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Copyright 2009-2017 BHG http://bw.org/
 
-# == != < > <= >= and or not is is not in not in 
+# == != < > <= >= and or not is is not in not in
 
 
 x = 5

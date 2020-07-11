@@ -30,7 +30,7 @@ for i in x:
 
 print(type(x))
 print('-----------------')
-# Dictionaries is a seachable sequence of key-value pairs and are immutable
+# Dictionaries are a searchable sequence of key-value pairs and are mutable
 x = {'one': 1, 'two': 2, 'three': 3, 'four': 4, 'five': 5}
 
 x['three'] = 42
