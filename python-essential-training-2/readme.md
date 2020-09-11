@@ -28,5 +28,3 @@ tuple3 = (*tuple1, *tuple2)
 list = [*list1, *list2]
 dict3 = {**dict1, **dict2}
 ```
-
-
