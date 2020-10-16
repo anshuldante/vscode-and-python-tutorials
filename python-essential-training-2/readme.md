@@ -12,6 +12,7 @@
 * `for k in dict`, `for k in dict.keys()` can be used to iterate over the keys in a dictionary.
 * `for k,v in dict.items()` will iterate over the keys and values in a dictionary.
 * `zip(list1, list2)`  can be used to combine lists in parallel. Example below:
+* isin check if the value in question is in a list of values.
 
 ```python
  indexes = [0, 1, 2, 3, 4, 5, 6, 7, 8]
